@@ -12,3 +12,4 @@ Colosploit short for CookieLoggerExploit is a framework in beta made for making 
 3. encoding payloads for encryption
 4. support for custom executable icons
 
+![image](https://user-images.githubusercontent.com/95602665/192759562-7391991a-b96b-47a8-adfd-c9e46655f711.png)
